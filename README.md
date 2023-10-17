@@ -1,4 +1,8 @@
 ### Hi there 👋
+[![lingyunzhang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hudhfo&show_icons=true&count_private=true&bg_color=30,77FFD2,6297DB,1EECFF&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/hudhfo)
+### 🤔，我使用的编程语言
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hudhfo&layout=compact)](https://github.com/hudhfo) 
+
 
 <!--
 
